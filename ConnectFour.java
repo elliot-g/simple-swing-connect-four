@@ -32,7 +32,7 @@ import javax.swing.border.LineBorder;
 /**
  * The main class, contains the main method and the whole connect four program.
  */
-public class ConnectFourTest {
+public class ConnectFour {
     /**
      * The number of columns in the board.
      */
