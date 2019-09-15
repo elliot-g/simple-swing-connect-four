@@ -2,7 +2,7 @@
 This a very simple connect four game written in Java Swing. 
 It comprises of only one file (aside from the save file, ConnectFourSave.ser) with one class.
 
-# Installation
+# Usage
 - Note: The main class is 'ConnectFour'.
 - The program can be launched by:
   - Running the ConnectFour class in an IDE capable of running  Java.
