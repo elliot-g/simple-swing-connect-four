@@ -1,6 +1,6 @@
 # Simple Swing Connect Four
 This a very simple connect four game written in Java Swing. 
-It comprises of only one file with one class.
+It comprises of only one file (aside from the save file, ConnectFourSave.ser) with one class.
 
 # Installation
 - Note: The main class is 'ConnectFour'.
